@@ -1,4 +1,4 @@
-# my-AI-adventure
+# My AI Adventure
 
 **Note:** Right now, this is just an idea. Please [let me know](https://github.com/gr2m/my-AI-adventure/discussions/1) if you would be interested in helping in any way.
 
